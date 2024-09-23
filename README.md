@@ -11,6 +11,8 @@
    git clone https://github.com/QuadDarv1ne/DocuMinderBot.git
    cd DocuMinderBot
 
+**Автор:** Алексей Яковенко @yakvenalex
+
 **Преподаватель:** Дуплей Максим Игоревич
 
 **Дата:** 23.09.2024
