@@ -10,7 +10,6 @@
    ```bash
    git clone https://github.com/QuadDarv1ne/DocuMinderBot.git
    cd DocuMinderBot
-  ```
 
 **Преподаватель:** Дуплей Максим Игоревич
 
